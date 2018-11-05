@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "sequelize": "^4.41.0",
+    "sqlite3": "^4.0.3",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },
